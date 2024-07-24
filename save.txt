@@ -1,0 +1,8 @@
+Gym,Tier 1,False
+Course Work,Tier 1,False
+Coding Projects,Tier 1,False
+Read,Tier 3,False
+Breakfast,Tier 3,False
+Morning Routine,Tier 3,False
+Creatine,Tier 4,False
+Score: 0.00%
